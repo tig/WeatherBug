@@ -2,8 +2,8 @@
 WeatherBug Command Line Client utility for accessing WeatherBug.com's free SOAP web services. It makes it easy to access single data points from any of WB's 1000s of weather stations. It was written in C++ using the Windows Web Services (WSS) framework. 
 
 ##Example usage:
-C:\WeatherBug\Release>WeatherBug.exe /?
-WeatherBug Command Line Client v1.0.2
+    C:\WeatherBug\Release>WeatherBug.exe /?
+    WeatherBug Command Line Client v1.0.2
 
     Copyright (c) 2012 Bogus Software
     Source code available at http://weatherbug.codeplex.com.
